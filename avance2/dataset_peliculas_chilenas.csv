@@ -1,0 +1,61 @@
+ID,Title,Year,Age,IMDb,CineChile,Directors,Genres,Language,Runtime
+1,El Chacal de Nahueltoro,1969,nan,7.7,457,Miguel Littin,"Biography, Crime, Drama",Spanish,95
+2,Tres Tristes Tigres,1968,nan,7.2,369,Raúl Ruiz,Drama,Spanish,100
+3,Valparaíso Mi Amor,1969,13+,7.3,225,Aldo Francia,Drama,Spanish,90
+4,La Batalla de Chile la lucha de un pueblo sin armas,1975,nan,8.3,207,Patricio Guzmán,Documentary,Spanish,97
+5,Largo Viaje,1967,nan,7.6,186,Patricio Kaulen,Drama,Spanish,83
+6,Machuca,2004,all,7.7,155,Andrés Wood,"Biography, Drama, History","Spanish, English",116
+7,La Frontera,1991,nan,7.3,125,Ricardo Larraín,Drama,Spanish,120
+8,El Club,2015,18+,7.2,96,Pablo Larraín,"Comedy, Drama, Mystery",Spanish,98
+9,Caliche Sangriento,1969,nan,7.2,88,Helvio Soto,"Drama, History, War",Spanish,128
+10,El Zapato Chino,1979,nan,6.7,85,Cristián Sánchez,"Drama, Romance",Spanish,72
+11,Julio Comienza en Julio,1979,nan,7.2,84,Silvio Caiozzi,Drama,"Spanish, French",120
+12,Cien niños esperando un tren,1988,nan,8.1,83,Ignacio Agüero,Documentary,Spanish,55
+13,Palomita Blanca,1973,nan,6.9,82,Raúl Ruiz,"Comedy, Romance",Spanish,125
+14,Gloria,2013,13+,6.8,74,Sebastián Lelio,"Comedy, Drama, Romance","Spanish, English",110
+15,Aquí se construye (o Ya no existe el lugar donde nací),2000,nan,7.9,71,Ignacio Agüero,Documentary,Spanish,77
+16,El Pejesapo,2007,nan,7.0,65,José Luis Sepúlveda,Drama,Spanish,90
+17,Tony Manero,2008,13+,6.8,63,Pablo Larraín,"Drama, Music","Spanish, English",97
+18,La Nana,2009,all,7.3,61,Sebastián Silva,"Comedy, Drama",Spanish,95
+19,Taxi para Tres,2001,all,6.9,59,Orlando Lübbert,"Crime, Drama, Thriller",Spanish,90
+20,Nostalgia de la luz,2010,nan,7.6,58,Patricio Guzmán,Documentary,"Spanish, English",90
+21,La Luna en el Espejo,1990,nan,6.7,45,Silvio Caiozzi,Drama,Spanish,75
+22,No,2012,all,7.4,41,Pablo Larraín,Drama,Spanish,118
+23,Johnny Cien Pesos,1993,13+,6.7,41,Gustavo Graef-Marino,"Crime, Drama, Thriller",Spanish,90
+24,Diálogos de exiliados,1975,nan,6.7,37,Raúl Ruiz,"Comedy, Drama","Spanish, French",100
+25,Violeta se fue a los cielos,2011,7+,7.2,36,Andrés Wood,"Biography, Drama, Music","Spanish, French, Polish",110
+26,El Húsar de la Muerte,1925,nan,6.6,36,Pedro Sienna,"Biography, Drama, History",Spanish,65
+27,Los Deseos Concebidos,1982,nan,7.5,35,Cristián Sánchez,Drama,Spanish,128
+28,Días de Campo,2004,nan,6.9,35,Raúl Ruiz,Drama,Spanish,89
+29,Nadie dijo Nada,1971,nan,6.7,32,Raúl Ruiz,Comedy,Spanish,135
+30,La Once,2014,all,7.7,30,Maite Alberdi,Documentary,Spanish,80
+31,La Vida de los Peces,2010,all,6.8,30,Matías Bize,"Drama, Romance",Spanish,84
+32,Matar a un Hombre,2014,nan,6.4,29,Alejandro Fernández Almendras,"Crime, Drama, Thriller",Spanish,82
+33,Un hombre aparte,2001,nan,7.8,27,"Iván Osnovikoff, Bettina Perut",Documentary,Spanish,57
+34,Caluga o Menta,1990,18+,6.1,27,Gonzalo Justiniano,"Crime, Drama",Spanish,100
+35,El otro día,2013,nan,6.8,26,Ignacio Agüero,Documentary,Spanish,120
+36,"Cofralandes, rapsodia chilena",2002,nan,7.7,24,Raúl Ruiz,"Documentary, Comedy, Drama","Spanish, French",81
+37,Coronación,2000,13+,7.0,23,Silvio Caiozzi,"Drama, Romance",Spanish,140
+38,El Charles Bronson Chileno: o idénticamente igual,1981,nan,6.8,22,Carlos Flores del Pino,Documentary,Spanish,70
+39,Noticias,2009,nan,7.2,20,"Iván Osnovikoff, Bettina Perut","Documentary, Crime, News",Spanish,80
+40,Mimbre,1958,nan,6.5,20,Sergio Bravo,"Documentary, Short",Spanish,10
+41,Señales de Ruta,2000,nan,6.9,20,Tevo Díaz,"Documentary, Short","Spanish, English",30
+42,A la sombra del sol,1974,nan,7.1,19,"Silvio Caiozzi, Pablo Perelman",Drama,Spanish,70
+43,Imagen Latente,1987,nan,6.6,17,Pablo Perelman,Drama,Spanish,92
+44,El botón de nácar,2015,all,7.6,16,Patricio Guzmán,Documentary,Spanish,82
+45,El Otro Round,1984,nan,6.6,16,Cristian Sánchez,nan,Spanish,62
+46,El Bosque de Karadima,2015,13+,7.0,15,Matías Lira,Drama,Spanish,98
+47,Día de Organillos,1961,nan,5.7,15,Sergio Bravo,Short,Spanish,20
+48,Surire,2015,nan,7.4,14,"Iván Osnovikoff, Bettina Perut",Documentary,Spanish,80
+49,Cachimba,2004,13+,6.6,14,Silvio Caiozzi,Comedy,Spanish,142
+50,En la Cama,2005,nan,6.2,14,Matías Bize,Drama,Spanish,85
+51,La danza de la realidad,2013,18+,7.5,13,Alejandro Jodorowsky,"Biography, Drama, Fantasy",Spanish,133
+52,Testimonio,1969,nan,5.6,13,Pedro Chaskel,"Documentary, Short",Spanish,7
+53,Cuídate del Agua Mansa,1995,nan,7.2,13,Cristián Sánchez,nan,Spanish,90
+54,Historias de Fútbol,1997,13+,6.8,13,Andrés Wood,"Drama, Sport",Spanish,87
+55,La Buena Vida,2008,nan,6.8,12,Andrés Wood,Drama,Spanish,108
+56,Las cosas como son,2012,nan,6.4,12,Fernando Lavanderos,Drama,Spanish,90
+57,La Expropiación,1974,nan,7.4,12,Raúl Ruiz,Drama,Spanish,60
+58,No Tan Lejos de Andrómeda,1997,nan,7.7,11,Juan Vicente Araya,nan,Spanish,131
+59,La Flaca Alejandra,1994,nan,7.5,10,"Carmen Castillo, Guy Girard",Documentary,Spanish,57
+60,El Vecino,2000,nan,6.3,10,Juan Carlos Bustamante,Drama,Spanish,93 
